@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "mm.h": "c",
+        "bitops.h": "c",
+        "common.h": "c",
+        "mem.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "pthread.h": "c",
+        "stdio.h": "c",
+        "loader.h": "c",
+        "sched.h": "c",
+        "cpu.h": "c",
+        "type_traits": "c"
+    }
+}
